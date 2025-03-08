@@ -1,0 +1,713 @@
+[
+    {
+        "url": "https://docs.github.com/en/rest"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/actions/permissions"
+    },
+    {
+        "url": "https://docs.github.com/en"
+    },
+    {
+        "url": "https://docs.github.com/en/rest?apiVersion=2022-11-28"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/actions/workflow-jobs"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/actions/oidc"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/actions/secrets"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/actions/self-hosted-runner-groups"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/actions/variables"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/actions/cache"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/actions/artifacts"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/actions/self-hosted-runners"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/actions"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/using-the-rest-api"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/authentication"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/actions/hosted-runners"
+    },
+    {
+        "url": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"
+    },
+    {
+        "url": "https://github.blog"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/users/ssh-signing-keys"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/users/users"
+    },
+    {
+        "url": "https://docs.github.com/en/contributing"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/users/social-accounts"
+    },
+    {
+        "url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/users/followers"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/users/gpg-keys"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/users/emails"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/users/keys"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/users"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/teams/discussion-comments"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/users/attestations"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/teams/members"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/teams/discussions"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/users/blocking"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/teams"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/teams/teams"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/security-advisories/global-advisories"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/security-advisories"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/secret-scanning/secret-scanning"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/search"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/security-advisories/repository-advisories"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/secret-scanning"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/search/search"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/repos/webhooks"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/repos/contents"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/repos/tags"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/repos/autolinks"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/repos/rule-suites"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/repos/rules"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/repos/forks"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/repos/custom-properties"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/repos/repos"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/releases/assets"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/repos"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/rate-limit/rate-limit"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/releases/releases"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/pulls/comments"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/releases"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/pulls/reviews"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/pulls/review-requests"
+    },
+    {
+        "url": "https://github.com/pricing"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/reactions/reactions"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/rate-limit"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/reactions"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/pulls"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/projects/cards"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/projects"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/projects/projects"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/projects/collaborators"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/projects/columns"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/private-registries/organization-configurations"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/pulls/pulls"
+    },
+    {
+        "url": "https://www.githubstatus.com/"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/private-registries"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/packages/packages"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/orgs/rule-suites"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/packages"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/orgs/rules"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/pages"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/pages/pages"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/orgs/webhooks"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/orgs/security-managers"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/orgs/organization-roles"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/orgs/outside-collaborators"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/orgs/personal-access-tokens"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/orgs/orgs"
+    },
+    {
+        "url": "https://github.com/github/docs/blob/main/content/rest/index.md"
+    },
+    {
+        "url": "https://github.com/orgs/community/discussions"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/migrations/users"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/migrations/source-imports"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/orgs/blocking"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/orgs/network-configurations"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/orgs/custom-properties"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/orgs/api-insights"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/orgs"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/orgs/members"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/migrations/orgs"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/metrics"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/meta/meta"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/meta"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/metrics/traffic"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/metrics/community"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/metrics/statistics"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/migrations"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/licenses"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/markdown/markdown"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/issues/milestones"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/licenses/licenses"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/issues/timeline"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/issues/sub-issues"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/markdown"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/issues/comments"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/issues/assignees"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/issues/labels"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/interactions/repos"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/issues/events"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/interactions/user"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/issues"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/issues/issues"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/git/trees"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/git/tags"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/interactions"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/gitignore"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/gitignore/gitignore"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/interactions/orgs"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/git/commits"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/gists/gists"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/gists"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/git/refs"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/git/blobs"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/gists/comments"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/git"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/deployments"
+    },
+    {
+        "url": "https://github.com/services/"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/deployments/protection-rules"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/deployments/environments"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/emojis"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/deployments/deployments"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/deployments/branch-policies"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/emojis/emojis"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/deployments/statuses"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/dependency-graph/dependency-submission"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/dependency-graph/dependency-review"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/deploy-keys/deploy-keys"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/deploy-keys"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/dependabot/secrets"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/dependency-graph"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/dependency-graph/sboms"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/copilot/copilot-usage"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/copilot/copilot-metrics"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/commits/comments"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/dependabot"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/copilot/copilot-user-management"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/copilot"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/commits/statuses"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/dependabot/alerts"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/commits"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/collaborators/invitations"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/codespaces/repository-secrets"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/collaborators/collaborators"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/collaborators"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/commits/commits"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/codespaces/secrets"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/codespaces/machines"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/code-security"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/code-security/configurations"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/codes-of-conduct/codes-of-conduct"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/codespaces/organizations"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/codespaces/organization-secrets"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/codes-of-conduct"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/codespaces/codespaces"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/codespaces"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/classroom/classroom"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/classroom"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/checks/runs"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/code-scanning"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/code-scanning/code-scanning"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/checks/suites"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/checks"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/branches/branch-protection"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/billing"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/apps/marketplace"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/apps/oauth-applications"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/billing/billing"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/branches"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/branches/branches"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/apps/webhooks"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/billing/enhanced-billing"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/apps"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/apps/installations"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/activity/starring"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/activity/notifications"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/activity/watching"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/apps/apps"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/activity/feeds"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/activity/events"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/about-the-rest-api"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/activity"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/actions/workflows"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/actions/workflow-runs"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/guides/rendering-data-as-graphs"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/guides/using-the-rest-api-to-interact-with-your-git-database"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/guides"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/guides/encrypting-secrets-for-the-rest-api"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/guides/working-with-comments"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/guides/using-the-rest-api-to-interact-with-checks"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/guides/building-a-ci-server"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/guides/discovering-resources-for-a-user"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/guides/delivering-deployments"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/guides/scripting-with-the-rest-api-and-ruby"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/authentication/permissions-required-for-fine-grained-personal-access-tokens"
+    },
+    {
+        "url": "https://github.blog/changelog/label/api,apis/"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/guides/scripting-with-the-rest-api-and-javascript"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/authentication/endpoints-available-for-github-app-user-access-tokens"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/authentication/endpoints-available-for-fine-grained-personal-access-tokens"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/authentication/permissions-required-for-github-apps"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/authentication/authenticating-to-the-rest-api"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/authentication/endpoints-available-for-github-app-installation-access-tokens"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/authentication/keeping-your-api-credentials-secure"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/using-the-rest-api/github-event-types"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/using-the-rest-api/issue-event-types"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/using-the-rest-api/using-cors-and-jsonp-to-make-cross-origin-requests"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/using-the-rest-api/troubleshooting-the-rest-api"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/using-the-rest-api/best-practices-for-using-the-rest-api"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/using-the-rest-api/timezones-and-the-rest-api"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/using-the-rest-api/rate-limits-for-the-rest-api"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/about-the-rest-api/api-versions"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/about-the-rest-api/comparing-githubs-rest-api-and-graphql-api"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/using-the-rest-api/using-pagination-in-the-rest-api"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/about-the-rest-api/about-the-openapi-description-for-the-rest-api"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/about-the-rest-api/breaking-changes"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/about-the-rest-api/about-the-rest-api"
+    },
+    {
+        "url": "https://docs.github.com/en/rest/quickstart"
+    },
+    {
+        "url": "https://github.blog/changelog/2025-02-21-deprecation-of-beta-github-copilot-usage-api-endpoint/"
+    },
+    {
+        "url": "https://github.blog/changelog/2025-02-27-manage-push-protection-bypass-requests-for-secret-scanning-with-the-rest-api/"
+    },
+    {
+        "url": "https://github.blog/changelog/2025-03-06-github-issues-projects-api-support-for-issues-advanced-search-and-more/"
+    }
+]
